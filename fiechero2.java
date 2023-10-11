@@ -1,2 +1,2 @@
-public class fiechero2 {//fichero nuevo
+public class fiechero2 {//fichero nuevoo
 }
